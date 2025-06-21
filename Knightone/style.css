@@ -1,0 +1,242 @@
+html,body{
+overflow-x:hidden;
+margin:0;
+padding: 0;
+
+
+}
+
+
+#enjoy {
+       font-family: "Sofia", sans-serif;
+      
+    }
+#about {
+  scroll-margin-top: 100px;
+}
+    .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+ .navbar{
+  background-color: black;
+ }
+@media (max-width: 991.98px) { 
+  .offcanvas.offcanvas-end {
+    background-color:black;
+}
+
+.offcanvas .dropdown-menu {
+    background-color: black; 
+  }
+
+  .offcanvas .dropdown-menu {
+    background-color: black;
+  }
+    .offcanvas .dropdown-item:hover {
+    background-color: #222;
+  }
+}
+.offcanvas .btn-close {
+    filter: invert(1); 
+  }
+  .offcanvas-title {
+    color: #ffffff 
+  }
+  
+.hero-section {
+  background: url('your-image.jpg') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.hero-section .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6); 
+  z-index: 1;
+}
+
+.hero-section .container {
+  z-index: 2; 
+}
+#play{
+  color:#1acc8d;
+}
+
+    #plate {
+      border-radius: 30px;
+    box-shadow: 0 0  8px white;
+      width:500px;
+    }
+
+    .btn-danger {
+      background-color: #1acc8d;
+      border: none;
+    }
+
+    .btn-danger:hover {
+      background-color: #1acc8d;
+    }
+
+
+
+    
+
+    .navbar .nav-link {
+      font-size: 1rem;
+    }
+    #head2{
+        font-family: 'Sofia', cursive;
+    }
+
+   #book{
+    font-weight:bold;
+   }
+#number{
+    font-weight:bold;
+}
+
+#learn{
+    font-family: "Sofia", sans-serif; 
+}
+#card{
+    background-color: #dadee4 ;
+}
+
+#dish{
+    background: url(assets/img/stats-bg.jpg);
+    
+}
+#check{
+  font-family: "Sofia", sans-serif
+}
+
+#starter{
+  font-family: "Sofia", sans-serif
+}
+
+
+ 
+#menu{
+  
+  scroll-margin-top: 150px;
+}
+#our{
+   font-family: "Sofia", sans-serif
+}
+#desc{
+   font-family: "Sofia", sans-serif;
+   font-size:30px;
+}
+
+#para{
+   font-family: "Sofia", sans-serif
+}
+#st{
+   font-family: "Sofia", sans-serifs
+}
+#testimonials{
+  background-color: #dadee4 
+}
+#what{
+  font-family: "Sofia", sans-serif
+}
+.carousel-indicators {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;        
+  background-color: #ccc;     
+  border: none;
+  margin: 0 6px;            
+  transition: background-color 0.3s ease;
+}
+.carousel-indicators .active {
+  background-color: #d32f2f;  
+}
+
+#chefs{
+  font-family: "Sofia", sans-serif
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  
+}
+
+#chef{
+  scroll-margin-top: 100px;
+}
+
+
+#book{
+  font-family: "Sofia", sans-serif
+}
+ #contacts{
+  font-family: "Sofia", sans-serif
+ }
+ footer{
+  margin-bottom:0;
+ }
+
+ .container, .row{
+  margin-bottom: 0;
+ }
+ #contact{
+  scroll-margin-top: 150px;
+ }
+
+ #table1{
+   scroll-margin-top: 150px;
+ }
+
+ #sec1{
+  background-color: #212529;
+ }
+
+ 
+ 
+
+ #btn2{
+  background-color:#1acc8d;
+ }
+.navbar {
+  background-color: white;
+  box-shadow: none;
+}
+
+.navbar::scroll-marker{
+  background-color: white;
+}
+#knight1{
+  color:#1acc8d;
+}
+#bl{
+  border-left: 2px solid #1acc8d;
+}
+
+#what{
+  font-family: "Sofia", sans-serif;
+}
+
+#feed_1{
+  font-family: "Sofia", sans-serif;
+}
+
+#form_1{
+  font-family: "Sofia", sans-serif;
+}
+
+#card{
+    scroll-margin-top: 150px;
+}
+
